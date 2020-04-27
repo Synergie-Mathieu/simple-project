@@ -1,0 +1,14 @@
+# .gitignore 
+# 	Excluse some local files or directory from Git Tracking 
+
+*.vscode
+
+*.bak 
+
+# On peut mettre des chemins absolus ou relatif 
+# Exemple le dossier qui est dans le même répertoire que le .gitignore 
+./node_modules 
+
+# Mais on autorise quand même un fichier à l'intérieur de ce dossier 
+# Ou en mettant un autre fichier .gitignore dans le sous dossier  
+!./node_modules/test.txt
