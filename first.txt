@@ -1,9 +1,8 @@
 First lime into first.txt
 Second time into first.txt
 
-11 and 16
-2
-
 modification sur le gitHub
 
 Un hotfix version 1.0.1
+
+On est sur la page d'accueil 
